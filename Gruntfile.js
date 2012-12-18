@@ -189,11 +189,11 @@ module.exports = function( grunt ) {
     // While Yeoman handles concat/min when using
     // usemin blocks, you can still use them manually
     concat: {
-      dist: ''
+      // dist: ''
     },
 
     min: {
-      dist: ''
+      // dist: ''
     }
   });
 
